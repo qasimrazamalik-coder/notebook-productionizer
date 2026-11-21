@@ -1,0 +1,4 @@
+interface:
+  display_name: "Notebook Productionizer"
+  short_description: "Assess notebooks for hidden state, hard-coded paths, missing tests, data leakage and production"
+  default_prompt: "Use @notebook-productionizer on my authorized input and return a validated result."
